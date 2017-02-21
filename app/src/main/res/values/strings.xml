@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WorkFlowMapperLibSample</string>
+    <string name="app_splash_title">WorkFlow Mapper Library Sample</string>
+    <string name="title_landing">Landing</string>
+    <string name="title_home">Home</string>
+    <string name="title_detail">Detail</string>
+    <string name="btn_txt_open_home">Open Home</string>
+    <string name="btn_txt_open_detail">Open Detail</string>
+    <string name="btn_txt_generate_random_num">Generate Random Number</string>
+    <string name="txt_your_luky_num_is">And Your Lucky Number is:</string>
+    <string name="btn_txt_open_landing">Open Landing</string>
+    <string name="btn_txt_generate_random_color">Generate Random Color</string>
+    <string name="txt_your_lucky_color">and Your Lucky Color is</string>
+    <string name="btn_txt_random_day">Find Random Day</string>
+    <string name="txt_your_lucky_day">And your lucky day is</string>
+</resources>
